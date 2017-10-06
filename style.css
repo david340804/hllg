@@ -1,0 +1,20 @@
+#renderTime{	
+	margin-left: 500px;
+	background-color: lime;
+	text-align: center;
+	padding: 20px;
+}
+
+#screen{
+	float: left;
+	width: 500px;
+	height: 500px;
+}
+
+.stats-panel{
+}
+
+.stats-panel-container{
+	float: left;
+	overflow: auto;
+}
